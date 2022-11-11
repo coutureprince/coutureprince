@@ -5,7 +5,6 @@ I like
 -:metal: rock
 -:art: art 
 -:sewing_needle: clothes
----
-### Skills and Tools
+
 
 
